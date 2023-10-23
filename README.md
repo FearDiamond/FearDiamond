@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @FearDiamond
-- 👀 I’m interested in Filmmaking Photography Coding Cryptocurrency
-- 🌱 I’m currently learning Coding and Cryptocurrency
 - 📫 Email at: feardiamondbis@gmail.com
 
 <!---
