@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @FearDiamond
+- 👋 Hi, I’m Logan
+- I develop projects for fun!
+- I also develop internal projects for businesses 
 - 📫 Email at: feardiamondbis@gmail.com
 
 <!---
