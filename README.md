@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Logan
 - I develop projects for fun!
-- I also develop internal projects for businesses 
+- I also develop software for businesses to use internally
 - 📫 Email at: feardiamondbis@gmail.com
 
 <!---
